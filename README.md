@@ -1,5 +1,5 @@
 # Lua-QmDSP
-QmDSP
+QmDSP 
 
 # It's kind of a pain to build it
 * Just get rid of the cblas/clapack
